@@ -1,0 +1,11 @@
+C:\Users\heyen\source\repos\BosKod\HesapMakinesiWinApp\bin\Debug\HesapMakinesiWinApp.exe.config
+C:\Users\heyen\source\repos\BosKod\HesapMakinesiWinApp\bin\Debug\HesapMakinesiWinApp.exe
+C:\Users\heyen\source\repos\BosKod\HesapMakinesiWinApp\bin\Debug\HesapMakinesiWinApp.pdb
+C:\Users\heyen\source\repos\BosKod\HesapMakinesiWinApp\obj\Debug\HesapMakinesiWinApp.csproj.AssemblyReference.cache
+C:\Users\heyen\source\repos\BosKod\HesapMakinesiWinApp\obj\Debug\HesapMakinesiWinApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\heyen\source\repos\BosKod\HesapMakinesiWinApp\obj\Debug\HesapMakinesiWinApp.Form1.resources
+C:\Users\heyen\source\repos\BosKod\HesapMakinesiWinApp\obj\Debug\HesapMakinesiWinApp.Properties.Resources.resources
+C:\Users\heyen\source\repos\BosKod\HesapMakinesiWinApp\obj\Debug\HesapMakinesiWinApp.csproj.GenerateResource.cache
+C:\Users\heyen\source\repos\BosKod\HesapMakinesiWinApp\obj\Debug\HesapMakinesiWinApp.csproj.CoreCompileInputs.cache
+C:\Users\heyen\source\repos\BosKod\HesapMakinesiWinApp\obj\Debug\HesapMakinesiWinApp.exe
+C:\Users\heyen\source\repos\BosKod\HesapMakinesiWinApp\obj\Debug\HesapMakinesiWinApp.pdb
